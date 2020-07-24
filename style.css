@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+.Todo{
+    text-align: center;
+    padding-top: 50px;
+}
+.inpt{
+    background-color: #ffffff; 
+    color: black;
+    width: 16%;
+    height: 20px;
+    border-radius: 5px;
+    border:3px solid pink;
+}
+.btn{
+    background-color: pink;
+    border: none;
+    color: black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 4px;
+}
+.div{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.delbtn{
+    background-color: pink;
+    color: black;
+    border: none;
+    margin-left: 6px;
+    border-radius: 2px;
+    border-radius: 2px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 2px;
+}
+#list{
+    list-style: none;
+}
+.editBtn{
+        background-color: pink;
+        border: none;
+        color: black;
+        padding: 5px 10px 5px 10px;
+        border-radius: 2px;
+        margin-left: 2px;
+}
+.liEdit{
+    margin-top: 6px;
+}
